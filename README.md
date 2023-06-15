@@ -16,8 +16,8 @@
 
 ## Projects
 
-- [Blockchain Voting DApp](https://github.com/muhammad-hassan-naseer/blockchain-voting-dapp): A decentralized application (DApp) built on Ethereum for secure and transparent voting.
-- [React Task Manager](https://github.com/muhammad-hassan-naseer/react-task-manager): A task management web application developed using React.js.
+https://github.com/muhammad-hassan-naseer/ghost-cards
+https://github.com/muhammad-hassan-naseer/parley
 
 ## Blog Articles
 
