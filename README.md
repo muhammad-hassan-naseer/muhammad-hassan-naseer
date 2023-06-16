@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Hassan Naseer
-- 👀 I’m interested in blockchain technology and React.js.
+- 👀 I’m interested in Website / Graphic Design HTML and React.js landing pages with pixel perfection.
 - 🌱 I’m currently learning smart contract development on Ethereum and advanced React.js concepts.
 - 💞️ I’m looking to collaborate on blockchain projects and React.js web applications.
 - 📫 How to reach me: 
