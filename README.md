@@ -1,6 +1,6 @@
 #
-- 👋 Hi !
-  - Passionate and extremely professional regarding my job.
+- 👋 Helo meet M.Hassan
+  - Passionate professional potential
 - Write to me here...
   - Email: dev.hassan.naseer@gmail.com
 
