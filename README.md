@@ -13,10 +13,9 @@
 - React js Fundaments to convert simple web page to components
 
 ## Projects
-
-https://github.com/muhammad-hassan-naseer/ghost-cards
-https://github.com/muhammad-hassan-naseer/parley
-
+### [Ghost Cards of salona](https://github.com/muhammad-hassan-naseer/ghost-cards)
+-GhostCards is a fantasy card world with 1 vs 1 battles play and earn!!!
+![Project Screenshot](https://via.placeholder.com/400x200.png)
 ## Blog Articles
 
 - [Getting Started with Smart Contract Development](https://example.com/getting-started-with-smart-contracts)
