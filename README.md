@@ -27,5 +27,6 @@ Parley betting exchnage is an online Crypto betting site or platform that allow 
 
 ![grocery-in-cart-included-with-stars-6045ld](https://github.com/muhammad-hassan-naseer/parley/assets/136330886/fef71444-762d-41ce-a7ab-2adcb0ba691a)
 ![Capture](https://github.com/muhammad-hassan-naseer/parley/assets/136330886/9bb5ad5d-6d0c-4168-b129-c0eaf975f71d)
-
+![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(302).png)
+![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(303).png)
 
