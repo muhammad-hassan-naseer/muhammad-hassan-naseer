@@ -31,3 +31,22 @@ Parley betting exchnage is an online Crypto betting site or platform that allow 
 ![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(302).png)
 ![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(303).png)
 
+### [Technosoft Codex](https://github.com/muhammad-hassan-naseer/technosoftCodex)
+
+During my collaboration with Technosoft Codex, I had the opportunity to design and develop their official company website.The project involved the following key aspects:
+Thoroughly exploring their current website at https://arbisoft.com/ to understand its design, layout, and functionality.
+Identifying the strengths and weaknesses of the existing design and areas that needed improvement.
+Redesigning the website using React.js components, leveraging the power and flexibility of this library.
+Creating wireframes and mockups using Figma, a design tool commonly used in the React.js ecosystem, to propose the layout, structure, and content placement of the redesigned website.
+Incorporating feedback through an iterative process until we were satisfied with the proposed redesign concept.
+Proceeding to the visual design phase by creating high-fidelity designs that considered typography, color schemes, imagery, and other visual elements, all implemented within the React.js framework.
+Ensuring the design was responsive, intuitive, and user-friendly across various devices and screen sizes using responsive design techniques within React.js.
+Maintaining SEO and website ranking by carefully choosing keywords and implementing best practices, while seamlessly integrating them into the React.js codebase.
+
+
+![grocery-in-cart-included-with-stars-6045ld](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(304).png)
+![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(308).png)
+![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(312).png)
+![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(313).png)
+
+
