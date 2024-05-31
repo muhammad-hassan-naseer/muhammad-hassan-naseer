@@ -48,6 +48,7 @@ Maintaining SEO and website ranking by carefully choosing keywords and implement
 ![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(308).png)
 ![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(312).png)
 ![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(313).png)
+![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(316).png)
 ![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(317).png)
 ![Capture](https://github.com/muhammad-hassan-naseer/technosoftCodex/blob/main/Screenshot%20(318).png)
 
