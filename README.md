@@ -14,11 +14,10 @@
 
 ## Projects
 ### [Ghost Cards of salona](https://github.com/muhammad-hassan-naseer/ghost-cards)
--GhostCards is a fantasy card world with 1 vs 1 battles play and earn!!!
-![Project Screenshot](https://via.placeholder.com/400x200.png)
-## Blog Articles
 
-- [Getting Started with Smart Contract Development](https://example.com/getting-started-with-smart-contracts)
-- [Building Responsive Web Interfaces with React.js](https://example.com/react-responsive-web-interfaces)
+Project Ghost card game on solana, with a wide range of deck configurations, available on PC and Phone. GhostCards is a fantasy card world with 1 vs 1 battles play and earn!.For each fight you will have a chance to get NFT!.Summons your deck or sell unnecessary ones!.We will reinvest investments from NFT Sales back into the project and create a price fund for tournaments.If you like strategy games, don’t pass by.
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on an interesting project!
+![Project Screenshot](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/a4367087-530b-4efc-a74d-8482be7fa72b)
+![Capture4](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e1b93b17-aeca-4cea-bdb8-4b81204a0459)
+![screenshot-tikiswap web app-2023 06 15-05_31_44](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e8833366-f034-4776-bf4f-ad4b8540978b)
+
