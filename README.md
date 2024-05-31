@@ -23,7 +23,8 @@ Project Ghost card game on solana, with a wide range of deck configurations, ava
 
 ### [Parley Betting](https://github.com/muhammad-hassan-naseer/parley)
 
-Parley betting exchnage is an online Crypto betting site or platform that allow users to bet and gamble using cryptocurrencies such as Bitcoin, Ethereum, Litecoin, and others. The site leverage blockchain technology to offer secure, transparent, and decentralized betting experiences.
+Parley betting exchnage is an online Crypto betting site or platform that allow users to bet and gamble using cryptocurrencies such as Bitcoin, Ethereum, Litecoin, and others. The site leverage blockchain technology to offer secure, transparent, and decentralized betting experiences.ParLay presently uses ETH as well as DAI which is the leading stablecoin that tracks the US Dollar. If you have ETH or any ERC-20 token, you can simply convert them to DAI at Uniswap or Totle.ParLay is unlike your typical sportsbook that accepts Bitcoin as we use ethereum smart contracts. This technology has numerous benefits which aren't available when using Bitcoin. You can easily use your favorite crypto-exchange to exchange your Bitcoin into ETH/DAI with some of the most popular ones being Coinbase and Binance.ParLay is unlike your typical sportsbook that accepts Bitcoin as we use ethereum smart contracts. This technology has numerous benefits which aren't available when using Bitcoin. You can easily use your favorite crypto-exchange to exchange your Bitcoin into ETH/DAI with some of the most popular ones being Coinbase and Binance.
+
 
 ![grocery-in-cart-included-with-stars-6045ld](https://github.com/muhammad-hassan-naseer/parley/assets/136330886/fef71444-762d-41ce-a7ab-2adcb0ba691a)
 ![Capture](https://github.com/muhammad-hassan-naseer/parley/assets/136330886/9bb5ad5d-6d0c-4168-b129-c0eaf975f71d)
