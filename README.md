@@ -21,3 +21,11 @@ Project Ghost card game on solana, with a wide range of deck configurations, ava
 ![Capture4](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e1b93b17-aeca-4cea-bdb8-4b81204a0459)
 ![screenshot-tikiswap web app-2023 06 15-05_31_44](https://github.com/muhammad-hassan-naseer/ghost-cards/assets/136330886/e8833366-f034-4776-bf4f-ad4b8540978b)
 
+### [Parley Betting](https://github.com/muhammad-hassan-naseer/parley)
+
+Parley betting exchnage is an online Crypto betting site or platform that allow users to bet and gamble using cryptocurrencies such as Bitcoin, Ethereum, Litecoin, and others. The site leverage blockchain technology to offer secure, transparent, and decentralized betting experiences.
+
+![grocery-in-cart-included-with-stars-6045ld](https://github.com/muhammad-hassan-naseer/parley/assets/136330886/fef71444-762d-41ce-a7ab-2adcb0ba691a)
+![Capture](https://github.com/muhammad-hassan-naseer/parley/assets/136330886/9bb5ad5d-6d0c-4168-b129-c0eaf975f71d)
+
+
