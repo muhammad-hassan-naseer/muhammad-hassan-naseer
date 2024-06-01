@@ -60,5 +60,14 @@ The BILLIONAIRE CLUB is a private collection of 10 000 billionaire apes NFTs—u
 ![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(320).png)
 ![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(321).png)
 
+### [World Eggs Club]()
+
+The World Eggs Club is a collection of 9’999 programmatically randomly generated and unique art pieces chosen carefully on the Ethereum blockchain made up of over 180 features. No member of the WEC is the same they are all unique eggs with a specific character and personality.
+
+![grocery-in-cart-included-with-stars-6045ld](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(331).png)
+![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(325).png)
+![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(329).png)
+![Capture](https://github.com/muhammad-hassan-naseer/muhammad-hassan-naseer/blob/main/Screenshot%20(332).png)
+
 
 
