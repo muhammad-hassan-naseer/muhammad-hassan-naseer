@@ -11,6 +11,7 @@
 - HTML for web page and Email Development
 - CSS for web page beautification
 - React js Fundaments to convert simple web page to components
+- Consumption of Api's
 
 ## Projects
 ### [Ghost Cards of salona](https://github.com/muhammad-hassan-naseer/ghost-cards)
