@@ -1,8 +1,11 @@
 #
-- 👋 Helo meet M.Hassan
-  - Passionate professional potential
-- Write to me here...
-  - Email: dev.hassan.naseer@gmail.com
+👋 About Me
+
+My name is 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗛𝗮𝘀𝘀𝗮𝗻.
+I’m a 𝗦𝗲𝗻𝗶𝗼𝗿 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with 5+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in React.js, JavaScript, TypeScript, and modern UI development.
+
+I build 𝗳𝗮𝘀𝘁, 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲, 𝗮𝗻𝗱 𝗽𝗶𝘅𝗲𝗹-𝗽𝗲𝗿𝗳𝗲𝗰𝘁 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 using React, Redux, Tailwind CSS, and responsive design best practices.
+I specialize in 𝗰𝗹𝗲𝗮𝗻 𝗰𝗼𝗱𝗲,, strong 𝗰𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 and delivering𝗵𝗶𝗴𝗵-𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲, 𝗺𝗼𝗯𝗶𝗹𝗲-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲𝘀 that exceed client expectations.
 
 ## Skills
 
