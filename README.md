@@ -9,12 +9,29 @@ I specialize in 𝗰𝗹𝗲𝗮𝗻 𝗰𝗼𝗱𝗲,, strong 𝗰𝗼𝗺𝗽�
 
 ## Skills
 
-- Programming Fundamentals
-- JavaScript for web page interactivity
-- HTML for web page and Email Development
-- CSS for web page beautification
-- React js Fundaments to convert simple web page to components
-- Consumption of Api's
+𝗢𝘂𝗿 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀
+
+🎨 Pixel-perfect UI development
+📱 Responsive & mobile-first layouts
+⚛️ React.js single-page applications (SPA)
+⚡ Next.js SSR/SSG applications
+🟨 JavaScript & TypeScript development
+🔗 API integration (REST / JSON / Axios / Fetch)
+♻️ Reusable component architecture
+🧠 State management (Redux, Context API, Zustand)
+🚀 Performance optimization & code refactoring
+🌐 Cross-browser compatibility
+🛠️ Fixes for landing pages, dashboards, admin panels
+🔄 Figma / PSD / XD → React or HTML conversion
+🐞 Frontend debugging & issue resolution
+✨ UI/UX improvements & accessibility enhancements (A11Y)
+🎯 Tailwind CSS, Bootstrap, Material UI, Chakra UI
+🔧 Version control with Git/GitHub
+✉️ Responsive email templates (HTML/CSS)
+⚙️ Website speed optimization (Lighthouse / Core Web Vitals)
+💫 Modern animations & transitions (Framer Motion / GSAP)
+🔌 Integration with backend APIs (.NET, Node.js, Laravel, etc.)
+📩 Email template development
 
 ## Projects
 ### [Ghost Cards of salona](https://github.com/muhammad-hassan-naseer/ghost-cards)
